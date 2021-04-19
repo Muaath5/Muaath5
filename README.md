@@ -11,32 +11,13 @@ I am a Muslim Student, I am boycotting france, I am with Palestine.
 - 💬 Ask me about **C#**
 - 📫 Reach me on muaath1428@hotmail.com.
 
-```c#
-struct Result
+```c++
+int main()
 {
-    bool Success;
-    int SuccessPercentage;
-    string Result;
-}
-
-while (am_I_alive)
-{
-    bool am_I_working_in_valuable_thing = GetCurrentThingValuablity();
-    if (am_I_working_in_valuable_thing)
+    long long c = 1;
+    while (c)
     {
-        // Needs long time to do
-        Result result = await ContinueWorking();
-
-        if (result.Success)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("الحمد لله");
-            Console.ResetColor();
-        }
-    }
-    else
-    {
-        WorkOnAnotherThing();
+        c++;
     }
 }
 ```
