@@ -5,6 +5,7 @@
 
 ## Active projects 🛠
 - [/MuaathBots](https://github.com/Muaath5/MuaathBots) | Useful open-source Telegram bots in PHP
+- [/SimpleBotAPI](https://github.com/Muaath5/SimpleBotAPI) | Simple & Easy Telegram Bot API in PHP
 
 ## Languages that I use 🧨
 - C#  | (Windows/Console apps, And diffrent things)
@@ -21,9 +22,10 @@
 
 ## Projects that I support 🔧
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
+- [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
 - [tdlib/td](https://github.com/tdlib/td)
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
