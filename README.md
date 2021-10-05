@@ -1,14 +1,17 @@
 ## About me 📜
 > I am a Muslim Student, I am boycotting france, I am with Palestine.
 > In programming, I like C#, C++, And PHP.
-> Also I like to support Open-source projects on GitHub (Like Telegram).
+> Also I like supporting Open-source projects on GitHub (Like Telegram).
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
 ## Finished projects ✅
-- [/AutoReplyUserBot](https://github.com/Muaath5/MuaathBots) | 
+- [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram 
+
+## Long time projects
+- [/TDLibBinaries](https://github.com/Muaath5/TDLibBinaries) | Built TDLib binaries for diffrent languages & systems
 
 ## Active projects 🛠
 - [/MuaathBots](https://github.com/Muaath5/MuaathBots) | Useful open-source Telegram bots in PHP
@@ -28,7 +31,7 @@
 - PHP    | (Only in creating websites & Tg-bots)
 - Python | (I know it, But I don't use it a lot)
 
-## Things, Services, Frameworks & Libraries that I work on & use ⚙
+## Services, Frameworks & Libraries that I work on & use ⚙
 - .NET 5
 - Heroku
 - Telegram Bots
@@ -37,3 +40,8 @@
 - UWP (Under learning) _I stopped using it_
 - TDLib
 - Laravel
+
+## Accounts
+- Codeforces: Muaath_5
+- Telegram: @Muaath_5
+- GitHub: @Muaath_5
