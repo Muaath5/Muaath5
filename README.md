@@ -17,13 +17,11 @@
 - [/MuaathBots](https://github.com/Muaath5/MuaathBots) | Useful open-source Telegram bots in PHP
 - [/SimpleBotAPI](https://github.com/Muaath5/SimpleBotAPI) | Simple & Easy Telegram Bot API in PHP
 
-## Coming soon projects 👀
-- /SimplePHPTdJson | JSON Interface of TDLib in PHP Using FFI
-
-## Projects that I use 🔧
+## Projects that I support & use 🔧
 - [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
 - [tdlib/td](https://github.com/tdlib/td)
+- [DIBgram/DIBgram](https://github.com/DIBgram/DIBgram)
 
 ## Languages that I use 🧨
 - C#     | (Windows/Console apps, And diffrent things)
@@ -40,6 +38,7 @@
 - UWP (Under learning) _I stopped using it_
 - TDLib
 - Laravel
+- React (Under learning)
 
 ## Accounts
 - Codeforces: Muaath_5
