@@ -8,7 +8,7 @@
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
 ## Finished projects ✅
-- [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram 
+- [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram using TDLib
 
 ## Long time projects
 - [/TDLibBinaries](https://github.com/Muaath5/TDLibBinaries) | Built TDLib binaries for diffrent languages & systems
@@ -22,6 +22,7 @@
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api)
 - [tdlib/td](https://github.com/tdlib/td)
 - [DIBgram/DIBgram](https://github.com/DIBgram/DIBgram)
+- [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient)
 
 ## Languages that I use 🧨
 - C#     | (Windows/Console apps, And diffrent things)
@@ -41,6 +42,7 @@
 - React (Under learning)
 
 ## Accounts
-- Codeforces: Muaath_5
-- Telegram: @Muaath_5
-- GitHub: @Muaath_5
+- Codeforces: codeforces.com/profile/Muaath_5
+- Telegram: t.me/Muaath_5
+- Telegram Channel (Arabic): t.me/Muaath_Alqarni
+- GitHub: github.com/Muaath_5
