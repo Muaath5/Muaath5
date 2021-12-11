@@ -1,12 +1,12 @@
 ## About me 📜
-> I am a Muslim Student, I'm boycotting france because of Macron, I am with Palestine.
+> I am an Arabic Muslim Student, I'm boycotting france, I am standing with Palestine.
 > 
 > In programming, I like C#, C++, And PHP.
 > Also, I study for compitetive programming (CP)
 > 
 > Also I like supporting Open-source projects on GitHub (Like Telegram).
 >
-> I volunteered with @tginfo team in Translating
+> I'm a translator in [@tginfo](https://github.com/tginfo) team
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
@@ -28,13 +28,16 @@
 - [tdlib/td](https://github.com/tdlib/td)
 - [DIBgram/DIBgram](https://github.com/DIBgram/DIBgram)
 
+## Coming soon projects
+- `/SimpleTdJson` | A simple & powerful wrapper for TdJson in PHP
+
 ## Languages that I know 🧨
 - C#            | (Windows/Console apps, And diffrent things)
 - C++           | (Compititive Programming)
 - PHP           | (Only in creating websites & Tg-bots)
 - Python        | (I know it, But I don't use it a lot)
 - Javascript    | (In websites, I know it with React)
-- Script (Bash) | (Only few information)
+- Script (Bash) | (Only few knowledge)
 
 ## Services, Frameworks & Libraries that I work on & use ⚙
 - .NET 5
@@ -43,7 +46,7 @@
 - SimpleBotAPI
 - Git & GitHub
 - UWP (Under learning) _I stopped using it_
-- TDLib
+- TDLib (Also TdJson)
 - Laravel
 - React (Under learning)
 
