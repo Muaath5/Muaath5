@@ -21,6 +21,7 @@
 - [/TDLibBinaries](https://github.com/Muaath5/TDLibBinaries) | Built TDLib binaries for diffrent languages & systems
 
 ### Active projects 🛠
+- [/CompetitiveProgramming](https://github.com/Muaath5/CompetitiveProgramming) | CP built-in structrues
 - [/MuaathBots](https://github.com/Muaath5/MuaathBots) | Useful open-source Telegram bots in PHP
 - [/SimpleBotAPI](https://github.com/Muaath5/SimpleBotAPI) | Simple & Easy Telegram Bot API in PHP
 
@@ -33,22 +34,22 @@
 
 ## Languages that I know 🧨
 - C#            | (Windows/Console apps, And diffrent things)
-- C++           | (Compititive Programming)
-- PHP           | (Only in creating websites & Tg-bots)
-- Python        | (I know it, But I don't use it a lot)
-- Javascript    | (In websites, I know it with React)
-- Script (Bash) | (Only few knowledge)
+- C++           | (Compititive Programming/Console apps)
+- PHP           | (Laravel, Chatbots, APIs, and more..)
+- Python        | (I hate it)
+- Javascript    | (I hate it so much)
+- Script (Bash) | (Learned in StackOverflow)
 
 ## Services, Frameworks & Libraries that I work on & use ⚙
+- Laravel
 - .NET 5
 - Heroku
-- Telegram Bots
-- SimpleBotAPI
 - Git & GitHub
-- UWP (Under learning) _I stopped using it_
-- TDLib (Also TdJson)
-- Laravel
-- React (Under learning)
+- Telegram Bots _STOPPED_
+- SimpleBotAPI _STOPPED_
+- UWP (Under learning) _STOPPED_
+- TDLib (Also TdJson) _STOPPED_
+- React (Under learning) _STOPPED_
 
 ## Accounts (Not social media)
 - Codeforces: [@Muaath_5](https://codeforces.com/profile/Muaath_5)
