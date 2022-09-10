@@ -42,7 +42,8 @@
 
 ## Services, Frameworks & Libraries that I work on & use ⚙
 - Laravel
-- .NET 5
+- .NET 6
+- MAUI
 - Heroku
 - Git & GitHub
 - Telegram Bots _STOPPED_
