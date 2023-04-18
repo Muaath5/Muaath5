@@ -36,8 +36,4 @@
 - Discord
 - Telegram
 - Windows notepad.exe
-
-## Accounts (Not social media)
-- Codeforces: [@Muaath_5](https://codeforces.com/profile/Muaath_5)
-- Telegram: [@Muaath_5](https://t.me/Muaath_5) || feel free to contact this, probably late reply will come.
-- Twitter: [@Muaath_dev](https://twitter.com/Muaath_dev) || In Arabic
+- Naser_md
