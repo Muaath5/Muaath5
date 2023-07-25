@@ -1,5 +1,5 @@
 ## About me 📜
-> I am an Arabic Muslim Student, Aganist french gov, with Palestine 🤍.
+> Saudi Student
 > 
 > In programming,  C#, C++, And PHP.
 > Currently studing competitive programming (CP)
