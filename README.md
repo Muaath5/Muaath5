@@ -16,9 +16,9 @@
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
-## Articles
-- [Laravel on AWS](https://Muaath5.github.io/Muaath5/cards_trick) \[NEW\]
-- [Cards Trick](https://Muaath5.github.io/Muaath5/cards_trick)
+## Articles 📜
+- [Laravel on AWS](/laravel_aws.md) \[NEW\]
+- [Cards Trick](/cards_trick.md)
 
 ## Projects
 ### Finished projects ✅
