@@ -1,39 +1,38 @@
 ## About me 📜
-> Saudi Student
+> Saudi Student, websites developer, studing competitive programming (CP).
 > 
-> In programming,  C#, C++, And PHP.
-> Currently studing competitive programming (CP)
->
 > Previous translator in [@tginfo](https://github.com/tginfo)
+
+## Languages
+| Language      | Frameworks/Libraries | Years | Comment         | 
+|---------------|----------------------|-------|-----------------|
+| C#            | .NET                 | 4y    | GOAT            |
+| C++           | Console apps         | 3y    | GOAT            |
+| PHP           | Laravel, APIs        | 3y    | GOAT            |
+| Python        | Automation, misc.    | 1.5y  | hate it         |
+| Javascript    | Browser things       | 2y    | hate it so much |
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
-## Articles (NEW)
-- [Cards Trick](https://github.com/Muaath5/Muaath5/blob/main/cards_trick.md)
+## Articles
+- [Laravel on AWS](https://Muaath5.github.io/Muaath5/cards_trick) \[NEW\]
+- [Cards Trick](https://Muaath5.github.io/Muaath5/cards_trick)
 
 ## Projects
 ### Finished projects ✅
 - [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram using TDLib
 
-## Languages that I know 🧨
-- C#            | (Windows/Console apps, And diffrent things)
-- C++           | (Compititive Programming/Console apps)
-- PHP           | (Laravel, Chatbots, APIs, and more..)
-- Python        | (I hate it)
-- Javascript    | (I hate it so much)
-- Script (Bash) | (Learned in StackOverflow)
+### Working on..
+- /SOJ | Saudi Online Judge (will be open-source soon..)
 
-## Services, Frameworks & Libraries that I work on & use ⚙
-- Laravel
-- .NET 6
-- MAUI
+## What I use ⚙
 - Git & GitHub
-
-## Thanks
 - Firefox
-- Discord
-- Telegram
-- Windows notepad.exe
-- Naser_md
+- WSL 2 (Ubuntu)
+- Visual Studio 2019
+- Visual Studio Code
+- nodepad.exe
+- OBS
+- Google (Docs/Sheets/Slides)
