@@ -1,5 +1,5 @@
 ## About me 📜
-> Saudi Student, websites developer, studing competitive programming (CP).
+> Saudi Student, web developer, competitive programmer.
 > 
 > Previous translator in [@tginfo](https://github.com/tginfo)
 
@@ -28,11 +28,9 @@
 - /SOJ | Saudi Online Judge (will be open-source soon..)
 
 ## What I use ⚙
-- Git & GitHub
-- Firefox
-- WSL 2 (Ubuntu)
-- Visual Studio 2019
-- Visual Studio Code
-- nodepad.exe
-- OBS
-- Google (Docs/Sheets/Slides)
+- Browser: Firefox
+- Dev tools: Docker, Git, GitHub
+- OS: Windows, WSL 2 (Ubuntu 22.04)
+- IDE: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
+- Videos: Clipchamp, OBS
+- Docs: Google (Docs/Sheets/Slides)
