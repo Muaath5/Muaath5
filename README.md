@@ -4,13 +4,13 @@
 > Previous translator in [@tginfo](https://github.com/tginfo)
 
 ## Languages
-| Language      | Frameworks/Libraries | Years | Comment         | 
-|---------------|----------------------|-------|-----------------|
-| C#            | .NET                 | 4y    | GOAT            |
-| C++           | Console apps         | 3y    | GOAT            |
-| PHP           | Laravel, APIs        | 3y    | GOAT            |
-| Python        | Automation, misc.    | 1.5y  | hate it         |
-| Javascript    | Browser things       | 2y    | hate it so much |
+| Language      | Use/Frameworks/Libraries | Years | Comment         | 
+|---------------|--------------------------|-------|-----------------|
+| C#            | .NET                     | 4y    | GOAT            |
+| C++           | Console apps             | 3y    | GOAT            |
+| PHP           | Laravel, APIs            | 3y    | GOAT            |
+| Python        | Automation, misc.        | 1.5y  | hate it         |
+| Javascript    | Browser things           | 2y    | hate it so much |
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
@@ -33,4 +33,5 @@
 - OS: Windows, WSL 2 (Ubuntu 22.04)
 - IDE: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
 - Videos: Clipchamp, OBS
+- Communication: Discord, Telegram Desktop, Whatsapp Desktop
 - Docs: Google (Docs/Sheets/Slides)
