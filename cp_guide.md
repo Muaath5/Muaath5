@@ -1,5 +1,33 @@
-# Competitve Programming Helping Guides (C++)
-This is a really important skill
+# Competitve Programming Complete Guides
+## Online Judges
+- [Codeforces](https://codeforces.com) organizes contests almost every week
+- [CSES](https://cses.fi) contains a problemset of 300 problems
+- [AtCoder](https://atcoder.jp) contains educational contests
+- [SPOJ](https://spoj.com) has a random problemset
+- [Leetcode](https://leetcode.com/problemset/) contains problems commonly used in interviews
+- [CodeChef](https://codechef.com) there are some games you can play
+- [OJ.UZ](https://oj.uz) contains problems from the olympics
+- [HackerRank](https://www.hackerrank.com/domains/algorithms) educational problemset
+- [VJudge](https://vjudge.net) is a website that you can see problems from +40 online judges
+
+## Learning Resources
+### Books
+- [Competitive Programming Handbook (CPH)](https://cses.fi/book/book.pdf)
+- [CP Algorithms](https://cp-algorithms.com/)
+- [USACO Guide](https://usaco.guide/)
+- [IUSACO Cpp](https://darrenyao.com/usacobook/cpp.pdf)
+
+### Youtube Channels
+- [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) 
+- [Errichito](https://www.youtube.com/c/Errichto)
+
+## Chinese Resources
+- https://blog.xehoth.cc/
+- https://oi.men.ci/
+- https://memset0.cn/
+- https://www.cnblogs.com/Ning-Mew/
+- https://blog.csdn.net/cabi_zgx/article/details/79963427
+- https://www.cnblogs.com/Paul-Guderian/
 
 ## IOI-Style Contests Hints
 - At first read all the problems (that should be at most 30m), try to optimize this
@@ -9,33 +37,31 @@ This is a really important skill
 - Debugging usually takes the whole time, don't let it steal your time. 
 
 ## Debugging Wrong Answer
-<ul>
-    <li>Check the constaints of the arrays</li>
-    <li>Check if there is a code for input/output</li>
-    <li>Check if there could be an overflow (usually caused by multiplication, powers, or factorial)</li>
-    <li>Clear & Resize data-structures after each testcase</li>
-    <li>Check the for loops starting & ending</li>
-    <li>Check the binary search condition</li>
-    <li>Handle the edge cases (i.e. 0, 1, even, odd, primes, etc..)</li>
-    <li>Check sorting the array</li>
-    <li>Make your code either all 0-based or all 1-based</li>
-    <li>Check paranthesis when dealing with bitwise operations</li>
-    <li>The size of segment tree should be <code>4*MAXN</code></li>
-    <li>Avoid comparing doubles using <code>==</code> or <code>!=</code></li>
-    <li>Avoid using <code>memset</code> with values other than 0 or -1</li>
-    <li>Memorize the answers with indecies, if you sorted them at first</li>
-    <li>Output <code>Case x: </code> Before calculating the answer</li>
-    <li>In case of processing queries offline, do a <code>while</code> instead of <code>if</code> to check queries if it was somehow offline</li>
-    <li>Don't forget <code>cout << fixed << setprecision(X);</code> if the output is double</li>
-    <li>In intractive problems, remove fast i/o code</li>
-    <li>Split your program to functions, especially in intractive problems</li>
-    <li>In case of frequency array/map, check <code>++</code> instead of <code>=1</code></li>
-    <li>Don't forget endlines (<code>endl</code>, <code>'\n'</code>)</li>
-    <li>Write a simulater program for the operations and output them</li>
-    <li>Don't forget to handle the edge cases in two-pointers</li>
-    <li>Don't rely on <code>#ifndef ONLINE_JUDGE</code>, Rely on some local defines</li>
-    <li>Probably the given graph has loops, cycles, non-distinct edges</li>
-</ul>
+- Check the constaints of the arrays
+- Check if there is a code for input/output
+- Check if there could be an overflow (usually caused by multiplication, powers, or factorial)
+- Clear & Resize data-structures after each testcase
+- Check the for loops starting & ending
+- Check the binary search condition
+- Handle the edge cases (i.e. 0, 1, even, odd, primes, etc..)
+- Check sorting the array
+- Make your code either all 0-based or all 1-based
+- Check paranthesis when dealing with bitwise operations
+- The size of segment tree should be <code>4*MAXN</code>
+- Avoid comparing doubles using <code>==</code> or <code>!=</code>
+- Avoid using <code>memset</code> with values other than 0 or -1
+- Memorize the answers with indecies, if you sorted them at first
+- Output <code>Case x: </code> Before calculating the answer
+- In case of processing queries offline, do a <code>while</code> instead of <code>if</code> to check queries if it was somehow offline
+- Don't forget <code>cout << fixed << setprecision(X);</code> if the output is double
+- In intractive problems, remove fast i/o code
+- Split your program to functions, especially in intractive problems
+- In case of frequency array/map, check <code>++</code> instead of <code>=1</code>
+- Don't forget endlines (<code>endl</code>, <code>'\n'</code>)
+- Write a simulater program for the operations and output them
+- Don't forget to handle the edge cases in two-pointers
+- Don't rely on <code>#ifndef ONLINE_JUDGE</code>, Rely on some local defines
+- Probably the given graph has loops, cycles, non-distinct edges
         
 ## Debugging Time/Memory Limit
 <ol>
