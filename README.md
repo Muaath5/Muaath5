@@ -17,7 +17,8 @@
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
 ## Articles 📜
-- [Laravel on AWS](/laravel_aws.md) \[NEW\]
+- [Competitive Programming Guides](/cp_guide.md) \[NEW\]
+- [Laravel on AWS](/laravel_aws.md)
 - [Cards Trick](/cards_trick.md)
 
 ## Projects
@@ -28,10 +29,10 @@
 - /SOJ | Saudi Online Judge (will be open-source soon..)
 
 ## What I use ⚙
-- Browser: Firefox
-- Dev tools: Docker, Git, GitHub
-- OS: Windows, WSL 2 (Ubuntu 22.04)
-- IDE: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
-- Videos: Clipchamp, OBS
-- Communication: Discord, Telegram Desktop, Whatsapp Desktop
-- Docs: Google (Docs/Sheets/Slides)
+- **Browser**: Firefox
+- **Dev tools**: Docker, Git, GitHub
+- **OS**: Windows, WSL 2 (Ubuntu 22.04)
+- **IDE**: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
+- **Videos**: Clipchamp, OBS
+- **Communication**: Discord, Telegram Desktop, Whatsapp Desktop
+- **Docs**: Google (Docs/Sheets/Slides)
