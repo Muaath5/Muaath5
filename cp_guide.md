@@ -13,9 +13,12 @@
 ## Learning Resources
 ### Books
 - [Competitive Programming Handbook (CPH)](https://cses.fi/book/book.pdf)
-- [CP Algorithms](https://cp-algorithms.com/)
-- [USACO Guide](https://usaco.guide/)
 - [IUSACO Cpp](https://darrenyao.com/usacobook/cpp.pdf)
+
+### Websites
+- [USACO Guide](https://usaco.guide/)
+- [CP Algorithms](https://cp-algorithms.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)
 
 ### Youtube Channels
 - [Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) 
