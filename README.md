@@ -1,12 +1,12 @@
 ## About me 📜
-> Saudi Student, web developer, competitive programmer.
+> Saudi student, web developer, competitive programmer.
 > 
 > Previous translator in [@tginfo](https://github.com/tginfo)
 
 ## Languages
 | Language      | Use/Frameworks/Libraries | Years | Comment         | 
 |---------------|--------------------------|-------|-----------------|
-| C#            | .NET                     | 4y    | GOAT            |
+| C#            | .NET Winforms            | 4y    | GOAT            |
 | C++           | Console apps             | 3y    | GOAT            |
 | PHP           | Laravel, APIs            | 3y    | GOAT            |
 | Python        | Automation, misc.        | 1.5y  | hate it         |
@@ -17,6 +17,7 @@
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
 ## Articles 📜
+Random topics that I want to share..
 - [Competitive Programming Guides](/cp_guide.md) \[NEW\]
 - [Laravel on AWS](/laravel_aws.md)
 - [Cards Trick](/cards_trick.md)
@@ -34,5 +35,5 @@
 - **OS**: Windows, WSL 2 (Ubuntu 22.04)
 - **IDE**: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
 - **Videos**: Clipchamp, OBS
-- **Communication**: Discord, Telegram Desktop, Whatsapp Desktop
+- **Communication**: Discord (Lightmode), Telegram Desktop, Whatsapp Desktop
 - **Docs**: Google (Docs/Sheets/Slides)
