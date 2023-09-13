@@ -52,6 +52,8 @@ These are the important things to learn:
   - `set`/`multiset`/`unordered_set`
   - `map`
   - `pair`
+  - `stack`
+  - `queue`
   - `priority_queue`
   - `array`
 
