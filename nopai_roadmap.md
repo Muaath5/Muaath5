@@ -1,7 +1,15 @@
-# NOPAI Roadmap
+# ATHKA Roadmap
 ## Programming (C++)
+### Compiler
+- CodeBlocks | Old & Lightweight
+- Visual Studio Code | Customizable & Lightweight
+- Visual Studio | Advanced & Heavy
+
+Or you can use G++ directly in case of you like command line
+
+### Learning
 You don't need much knowledge in C++ like OOP, you just need to know:
-- Input/Output
+- Input/Output (cin/cout)
 - Loops
 - Conditions
 - Functions & Recursion
@@ -9,6 +17,12 @@ You don't need much knowledge in C++ like OOP, you just need to know:
 - Bitwise Operations
 - Basic Strings
 - Structs (Optional)
+- Pointers (Optional)
+
+**Arabic:** [Harmash](https://harmash.com/tutorials/cplusplus/overview)
+**English:** [W3Schools](https://www.w3schools.com/cpp/)
+
+Youtube & Google are your best friends in case of any problem, you can ask in communities.
 
 **Expected Time: >2 weeks**
 
@@ -22,21 +36,37 @@ These are the important things to learn:
   - Goldbach Conjecture
   - Seive
   - GCD/LCM
+  - Binary Exponentiation
+  - Matrices
 - General Techniques & Algorithms
   - Binary Search
   - Two Pointers
   - Prefix Sum
+  - Divide & Conquer (Merge Sort)
+- Geometry
+  - Pythagorean theorem
+  - Vectors
+  - Line intersection
+  - Point Location Test
+  - Sweep Line
 - Graph Algorithms
   - DFS
   - BFS
   - Dijkstra
   - MST
+  - Topological Sort
+- Dynamic Programming
+  - Combinatorical Counting
+  - Bitmask DP
+  - Optimization problems
+  - DP on trees
 - Data Strcutures
   - Queue
   - Stack
   - DSU
   - Segment Tree
   - Sqrt decomposition
+  - Lowest Common Anceastor
 - C++ Built-in Functions
   - `sort`
   - `lower_bound`/`upper_bound`/`binary_search`
@@ -71,8 +101,8 @@ These are the important things to learn:
 
 
 ## Practice
-- Try an IOI Style Contests
-- AtCoder & Codeforces are useful
+- [Assiut Problems Sheet](https://codeforces.com/group/MWSDmqGsZm/contests)
+- [Errichto Problems Sheet](https://codeforces.com/group/yg7WhsFsAp/contests)
 
 **Expected Time: Forever**
 
