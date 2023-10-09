@@ -18,7 +18,8 @@
 
 ## Articles 📜
 Random topics that I want to share..
-- [Competitive Programming Guides](/cp_guide.md) \[NEW\]
+- [ATHKA Roadmap](/athka_roadmap.md)
+- [Competitive Programming Guides](/cp_guide.md)
 - [Laravel on AWS](/laravel_aws.md)
 - [Cards Trick](/cards_trick.md)
 
@@ -27,7 +28,7 @@ Random topics that I want to share..
 - [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram using TDLib
 
 ### Working on..
-- /SOJ | Saudi Online Judge (will be open-source soon..)
+- /SOJ | Saudi Online Judge (will be open-source soon, fixing bugs)
 
 ## What I use ⚙
 - **Browser**: Firefox
