@@ -18,6 +18,8 @@
 
 ## Articles 📜
 Random topics that I want to share..
+- [Linux Guide](/linux_guide.md)
+- [CSES Python Automation](/cses_python_automation.md)
 - [ATHKA Roadmap](/athka_roadmap.md)
 - [Competitive Programming Guides](/cp_guide.md)
 - [Laravel on AWS](/laravel_aws.md)
