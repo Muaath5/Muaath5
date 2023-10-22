@@ -38,7 +38,7 @@ sudo zip ../files.zip -r * .[^.]* -x "vendor/*"
 ```bash
 sudo ssh -i /path/to/key.pem ec2-user@{IP_ADDRESS}
 ```
-Your files will be in `/var/www/html`
+Your files will be in `/var/www/html` (actually `/var/app/current`)
 
 ## Configuring SSL (HTTPS)
 ### Open port (firewall)
@@ -49,8 +49,7 @@ AWS Console > EC2 > Instances > {INSTANCE_NAME} > Security > Security groups > E
 First, add your certificate files to some folder (I suggest `/var/ssl/`), then:
 
 ```bash
-cd /etc/httpd/conf.d/elasticbeanstalk
-sudo nano ssl.conf
+cd /etc/httpd/conf.d/elasticbeanstalk && sudo nano ssl.conf
 ```
 Write:
 ```
@@ -59,18 +58,17 @@ Listen 443 https
     DocumentRoot /var/www/html/public
     ServerName {DOMAIN}
     SSLEngine on
-    SSLCertificateFile /var/ssl/file.crt
-    SSLCertificateKeyFile /var/ssl/file.key
-    SSLCertificateChainFile /var/ssl/file.ca_bundle
+    SSLCertificateFile /var/www/html/ssl/file.crt
+    SSLCertificateKeyFile /var/www/html/ssl/file.key
+    SSLCertificateChainFile /var/www/html/ssl/file.ca-bundle
 </VirtualHost>
 ```
 Check if it's correct then restart:
 ```bash
-sudo apachectl configtest
-sudo apachectl restart
+sudo apachectl configtest && sudo apachectl restart
 ```
 
-## Auto fetching from GitHub
+## Auto fetching from GitHub (Not working)
 1. Create a pipeline
 2. Connect it to your Github account
 3. Create CodeBuild, and make everything as default
