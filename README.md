@@ -14,10 +14,9 @@
 
 ## Statistics 
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaath5&layout=compact&theme=merko)
 
 ## Articles 📜
-Random topics that I want to share..
+Random topics that I write about..
 - [Linux Guide](/linux_guide.md)
 - [CSES Python Automation](/cses_python_automation.md)
 - [ATHKA Roadmap](/athka_roadmap.md)
@@ -29,13 +28,10 @@ Random topics that I want to share..
 ### Finished projects ✅
 - [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply userbot in Telegram using TDLib
 
-### Working on..
-- /SOJ | Saudi Online Judge (will be open-source soon, fixing bugs)
-
 ## What I use ⚙
 - **Browser**: Firefox
-- **Dev tools**: Docker, Git, GitHub
-- **OS**: Windows, WSL 2 (Ubuntu 22.04)
+- **Dev tools**: Docker, Git, GitHub, Postman
+- **OS**: Windows, WSL 2 (Ubuntu 20.04)
 - **IDE**: Visual Studio 2019, Visual Studio Code, notepad++, nodepad.exe
 - **Videos**: Clipchamp, OBS
 - **Communication**: Discord (Lightmode), Telegram Desktop, Whatsapp Desktop
