@@ -21,6 +21,7 @@ class CSES:
     LOGIN_URL = BASE_URL + "/login"
     LOGOUT_URL = BASE_URL + "/logout"
     PROBLEMSET_URL = BASE_URL + "/problemset/list"
+    STATS_URL = BASE_URL + "/problemset/stats/"
     session = requests.session()
 
     def __init__(self) -> None:
@@ -70,6 +71,24 @@ class CSES:
     def submit_code(self, code, language):
         pass
 
+    # Requires login
+    def get_statistics(self, problem_id):
+        soap = self.open_page(self.STATS_URL + str(problem_id))
+        tables = soap.find_all('table', {'class': 'narrow'})
+        shortest = []
+        time = []
+        for row in tables[1].find_all('tr'):
+            cells = row.find_all('td')
+            shortest.append(cells[1].a.text)
+        for row in tables[0].find_all('tr'):
+            cells = row.find_all('td')
+            time.append(cells[1].a.text)
+        return {
+            'shortest': shortest,
+            'time': time
+        }
+        
+
     def submit_file(self, filepath, language):
         pass
 
@@ -77,7 +96,7 @@ class CSES:
 CSES_USERNAME = "WhatEver"
 CSES_PASSWORD = "rELl!y_$EcREt_@A$sWoRD"
 
-def main():
+def test():
     cses = CSES()
     print("Login: ", cses.login(CSES_USERNAME, CSES_PASSWORD))
     tasks = cses.get_problemset_tasks()
@@ -85,4 +104,23 @@ def main():
         print(f"Task[{t.ID}]: {t.Name} ({t.SubmissionsCount}/{t.SolvesCount})")
     cses.logout()
 
-main()
+def standings(users: dict):
+    cses = CSES()
+    print("Login: ", cses.login(CSES_USERNAME, CSES_PASSWORD))
+    tasks = cses.get_problemset_tasks()
+    stands = {}
+    for u in users:
+        stands[u] = 0
+    cnt=1
+    for t in tasks:
+        stats = cses.get_statistics(t.ID)
+        print(cnt)
+        for i in range(5):
+            if (stats['time'][i] in users):
+                stands[stats['time'][i]] += 5-i
+            if (stats['shortest'][i] in users):
+                stands[stats['shortest'][i]] += 5-i
+        cnt+=1
+    for i in stands:
+        print(i, stands[i])
+        
