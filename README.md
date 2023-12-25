@@ -16,13 +16,13 @@
 ![Muaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaath5&count_private=true&show_icons=true&theme=merko)  
 
 ## Articles 📜
-Random topics that I write about..
-- [Linux Guide](/linux_guide.md)
-- [CSES Python Automation](/cses_python_automation.md)
-- [ATHKA Roadmap](/athka_roadmap.md)
-- [Competitive Programming Guides](/cp_guide.md)
-- [Laravel on AWS](/laravel_aws.md)
-- [Cards Trick](/cards_trick.md)
+Random topics that I write about ([check the whole list](/list.md))
+- [Linux Guide](/articles/linux_guide.md)
+- [CSES Python Automation](/articles/cses_python_automation.md)
+- [ATHKA Roadmap](/articles/athka_roadmap.md)
+- [Competitive Programming Guides](/articles/cp_guide.md)
+- [Laravel on AWS](/articles/laravel_aws.md)
+- [Cards Trick](/articles/cards_trick.md)
 
 ## Projects
 - ✅ [/AutoReplyUserBot](https://github.com/Muaath5/AutoReplyUserBot) | Auto-reply Telegram userbot in C# using TDLib
